@@ -69,17 +69,17 @@ streamlit run skin.py
 
 አንድ ምስል ሲሰቅሉ ውጤቱ ይህንን ሊመስል ይችላል፦
 
-![ምሳሌ](imgs\image1.png)
+![ምሳሌ](imgs/image1.png)
 
 
 መተግበሪያው በሽታውን ሲተነብይ የሚያሳይ ምሳሌ
 
-![ምሳሌ](imgs\image_2.jpeg)
+![ምሳሌ](imgs/image_2.jpeg)
 
 
 የተተነበየ የቆዳ በሽታ እና ዝርዝር መግለጫ የሚያሳይ ምሳሌ
 
-![ምሳሌ](imgs\image_3.jpeg)
+![ምሳሌ](imgs/image_3.jpeg)
 
 
 ## ስለ DINOv2 ሞዴል 🧠
